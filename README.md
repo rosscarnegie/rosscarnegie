@@ -1,7 +1,7 @@
 # Ross Carnegie
 **Atlanta, GA**
 
-### Healthcare Software Engineer \| FHIR \| Interoperability \| Cloud
+### 🙍🏾‍♂️ Healthcare Software Engineer \| FHIR \| Interoperability \| Cloud
 
 Software engineer focused on building secure, interoperable healthcare
 applications and data systems.
@@ -14,7 +14,7 @@ CDC public health systems.
 
 I primarily work across TypeScript, Node.js, React, AWS/GCP and MongoDB but I have worked with Python, C#, .NET, and in an Azure enviornment as well.
 
-## Healthcare Engineering
+## 🛠️ Healthcare Engineering
 
 My healthcare experience includes:
 
@@ -31,7 +31,7 @@ My healthcare experience includes:
 -   Healthcare data validation and transformation
 -   Technical architecture and documentation
 
-## Interoperability & Healthcare Data
+## 🏥 Interoperability & Healthcare Data
 
 ``` text
 FHIR              HL7
@@ -45,15 +45,15 @@ I am particularly interested in the engineering problems created when
 healthcare systems need to exchange data reliably while maintaining
 security, traceability, and clear data provenance.
 
-## Technology
+## ⚡️ Technology
 
-### Languages
+### 🧑🏾‍💻 Languages
 
 ``` text
 TypeScript    JavaScript    C#    Python    Swift
 ```
 
-### Application Development
+### 🚀 Application Development
 
 ``` text
 React         Node.js       Express
@@ -61,7 +61,7 @@ React         Node.js       Express
 GraphQL       REST APIs
 ```
 
-### Data
+### 📊 Data
 
 ``` text
 PostgreSQL    MongoDB
@@ -69,14 +69,14 @@ MySQL         Redis
 FHIR          HL7
 ```
 
-### Cloud & Infrastructure
+### ☁️ Cloud & Infrastructure
 
 ``` text
 AWS           Azure         GCP
 Docker        Kubernetes    GitHub Actions
 ```
 
-### Security & Reliability
+### 🔐  Security & Reliability
 
 ``` text
 RBAC
@@ -89,7 +89,7 @@ CI/CD
 Observability
 ```
 
-## What I'm Interested In
+## 👀 What I'm Interested In
 
 I'm especially interested in engineering roles involving:
 
@@ -103,7 +103,7 @@ I'm especially interested in engineering roles involving:
 -   Healthcare data infrastructure
 -   Secure distributed systems
 
-## Current Focus
+## 📚 Current Focus
 
 Currently exploring deeper healthcare architecture topics including FHIR
 interoperability, healthcare auditability, clinical data modeling,
